@@ -1,4 +1,4 @@
-# 🐋 Proluo
+# 🐋&nbsp; Proluo
 
 Webite repository for developers at Proluo  
 For live website go to [proluoupv.com](https://proluoupv.com).
