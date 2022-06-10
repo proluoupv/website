@@ -1,0 +1,36 @@
+{
+  "name": "proluo-website",
+  "version": "0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3001",
+    "build": "next build",
+    "start": "next start -p $PORT",
+    "heroku-postbuild": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "next export",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "1.5.0",
+    "ionicons": "5.5.3",
+    "next": "12.1.5",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "styled-components": "5.3.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "3.0.24",
+    "@types/react": "18.0.5",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "postcss": "8.3.11",
+    "reset-css": "5.0.1",
+    "sass": "1.41.0",
+    "@babel/core": "7.17.9",
+    "autoprefixer": "10.3.4"
+  },
+  "engines": {
+    "node": "v14.17.3"
+  }
+}

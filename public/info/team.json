@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Aymane Berrerhdoche",
+    "photo": "aymane-berrerhdoche",
+    "title": "Chief Executive",
+    "team": "chief",
+    "chief": "true"
+  },
+  {
+    "name": "Cecilio Rodriguez",
+    "photo": "cecilio-rodriguez",
+    "title": "Chief Hydraulics Engineer",
+    "team": "hydraulics",
+    "chief": "true"
+  },
+  {
+    "name": "Arnau Sage",
+    "photo": "arnau-sage",
+    "title": "Chief Mechanics Engineer",
+    "team": "mechanics",
+    "chief": "true"
+  },
+  {
+    "name": "Francisco Tormo",
+    "photo": "francisco-tormo",
+    "title": "Chief Economics Manager",
+    "team": "economics",
+    "chief": "true"
+  },
+  {
+    "name": "Mehdi Loukili",
+    "photo": "mehdi-loukili",
+    "title": "Chief Creative Designer",
+    "team": "creative",
+    "chief": "true"
+  },
+  {
+    "name": "Martín Gramage",
+    "photo": "martin-gramage",
+    "title": "Chief Enviroment Researcher",
+    "team": "enviroment",
+    "chief": "true"
+  },
+  {
+    "name": "Samanta Petkoff",
+    "photo": "samanta-petkoff",
+    "title": "Chief HR Manager",
+    "team": "hr",
+    "chief": "true"
+  },
+  {
+    "name": "José Luis Musoles",
+    "photo": "jose-luis-musoles",
+    "title": "Hydraulics Engineer",
+    "team": "hydraulics"
+  },
+  {
+    "name": "Oualid El Haddane",
+    "photo": "oualid-el-haddane",
+    "title": "Hydraulics Engineer",
+    "team": "hydraulics"
+  },
+  {
+    "name": "Andrea Carolina Flórez",
+    "photo": "andrea-carolina-florez",
+    "title": "Hydraulics Engineer",
+    "team": "hydraulics"
+  },
+  {
+    "name": "Kailas Bermúdez",
+    "photo": "kailas-bermudez",
+    "title": "Hydraulics Engineer",
+    "team": "hydraulics"
+  },
+  {
+    "name": "Isabel Murcia",
+    "photo": "isabel-murcia",
+    "title": "Hydraulics Engineer",
+    "team": "hydraulics"
+  },
+  {
+    "name": "Sofya Tyutyunik",
+    "photo": "sofya-tyutyunik",
+    "title": "Hydraulics Engineer",
+    "team": "hydraulics"
+  },
+  {
+    "name": "Juan Vela Cabezas",
+    "photo": "juan-vela-cabezas",
+    "title": "Mechanics Engineer",
+    "team": "mechanics"
+  },
+  {
+    "name": "Maria Campos",
+    "photo": "maria-campos",
+    "title": "Mechanics Engineer",
+    "team": "mechanics"
+  },
+  {
+    "name": "Eusebio Fernández",
+    "photo": "eusebio-fernandez",
+    "title": "Mechanics Engineer",
+    "team": "mechanics"
+  },
+  {
+    "name": "Yishun Dai Wang",
+    "photo": "yishun-dai-wang",
+    "title": "Mechanics Engineer",
+    "team": "mechanics"
+  }
+]
