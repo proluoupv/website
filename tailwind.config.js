@@ -1,3 +1,5 @@
+/** @type {import('tailwindcss').Config} */
+
 const colors = require('tailwindcss/colors')
 
 module.exports = {
@@ -13,11 +15,9 @@ module.exports = {
 		colors: {
 			transparent: colors.transparent,
 			gray: colors.gray,
-			white: colors.white,
-			red: 'red'
+			white: colors.white
 		},
-		extend: {
-		},
+		extend: {},
 	},
 	variants: {
 		backgroundColor: ['responsive', 'hover', 'active', 'focus'],
