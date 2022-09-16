@@ -1,4 +1,7 @@
 module.exports = {
-	basePath: '',
-	webpack5: true
-}
+  basePath: '',
+  i18n: {
+    locales: ['en', 'es'],
+    defaultLocale: 'en',
+  },
+};

@@ -1,12 +1,7 @@
-const Home = ({}) => {
-
-	return (
-		<>
-			<div className="flex flex-col items-center justify-center w-full h-screen">
-				<h1 className="text-3xl font-medium">Work in progress</h1>
-			</div>
-		</>
-	)
+export default function Home({}) {
+  return (
+    <div className="flex h-screen w-screen items-center justify-center">
+      <h1 className="text-9xl">Proluo</h1>
+    </div>
+  );
 }
-
-export default Home
