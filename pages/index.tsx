@@ -12,10 +12,10 @@ export default function Home({}) {
           </div>
 
           <div className="grid grid-flow-row grid-cols-2 gap-10 px-10 sm:grid-cols-4 sm:gap-16">
-            <Sponsor src="./src/logos/upv.png" href="http://www.upv.es/es/" size="big" />
-            <Sponsor src="./src/logos/etsid.png" href="https://www.etsid.upv.es/alumnos/" size="mid" />
+            <Sponsor src="images/team/02.png" href="http://www.upv.es/es/" size="big" />
+            <Sponsor src="images/team/09.png" href="https://www.etsid.upv.es/alumnos/" size="mid" />
             <Sponsor src="./src/logos/iccp.png" href="https://www.iccp.upv.es/web/" size="mid" />
-            
+
             <img className="flex flex-col items-center" src="./src/logos/vacio.png" />
 
             <Sponsor src="./src/logos/ge.png" href="https//generacionespontanea.upv.es/" size="mid" />
