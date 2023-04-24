@@ -1,7 +1,6 @@
 import React from 'react';
 import { SponsorSection } from './SponsorSection';
 import { Journey } from './Journey';
-import { Sponsor } from './Sponsor';
 import { Miembros } from './Miembros';
 
 export default function Home({}) {
@@ -141,36 +140,6 @@ export default function Home({}) {
             <Miembros linkdn="" imagen="images/team/29.png" cargo="Enviroment Researcher" nombre="Anabel Clemente" />
             <Miembros linkdn="" imagen="images/team/00.png" cargo="HR Manager" nombre="Luís Quirós Rodríguez" />
             <Miembros linkdn="" imagen="images/team/00.png" cargo="HR Manager" nombre="Ignacio Gómez" />
-          </div>
-        </div>
-      </div>
-      <div id="sponsors" className="flex w-full flex-col items-center pb-16 lg:pb-24">
-        <div className="flex max-w-3xl flex-col">
-          <div className="text-dark mb-8 flex flex-col px-10 lg:mb-16">
-            <h3 className="font--title mb-4 text-center text-3xl font-medium lg:mb-4 lg:text-4xl">
-              Thanks to our sponsors
-            </h3>
-          </div>
-
-          <div className="grid grid-flow-row grid-cols-2 gap-10 px-10 sm:grid-cols-4 sm:gap-16">
-            <Sponsor src="images/team/02.png" href="http://www.upv.es/es/" size="big" />
-            <Sponsor src="images/team/09.png" href="https://www.etsid.upv.es/alumnos/" size="mid" />
-            <Sponsor src="./src/logos/iccp.png" href="https://www.iccp.upv.es/web/" size="mid" />
-
-            <img className="flex flex-col items-center" src="./src/logos/vacio.png" />
-
-            <Sponsor src="./src/logos/ge.png" href="https//generacionespontanea.upv.es/" size="mid" />
-
-            <img className="flex flex-col items-center" src="./src/logos/vacio.png" />
-
-            <Sponsor src="./src/logos/ade.png" href="http://www.upv.es/entidades/ADE" size="small" />
-            <Sponsor src="./src/logos/moloon.png" href="http://www.moloon.es" size="small" />
-            <Sponsor src="./src/logos/maxilia.png" href="http://www.maxilia.es" size="small" />
-            <Sponsor
-              src="./src/logos/regalospublicitarios-grande.png"
-              href="http://www.regalospublicitarios.com"
-              size="small"
-            />
           </div>
         </div>
       </div>
