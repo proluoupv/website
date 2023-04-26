@@ -6,7 +6,14 @@ interface MemberProps {
   cargo: string;
   nombre: string;
 }
-
+/**
+ *
+ * @param linkdn, Link to the LinkedIn account of the member
+ * @param imagen, location of the image of the member
+ * @param cargo, position of the member
+ * @param nombre, member name
+ * @returns The image of the member with its name, position and the link to the LinkedIn account.
+ */
 export function Miembros({ linkdn, imagen, cargo, nombre }) {
   return (
     <a href={linkdn} className="flex flex-col items-center">
