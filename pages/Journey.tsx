@@ -17,24 +17,12 @@ export class Journey extends Component {
           </div>
 
           <div className="grid grid-flow-row grid-cols-3 gap-0.5 md:gap-1 md:px-10">
-            <JourneyPost href="https://www.instagram.com/p/ClRZ-6XLXQE/" src="images/instagramPosts/foto1.png" />
-            <JourneyPost href="https://www.instagram.com/p/Ckv9BhHjuUb/" src="images/instagramPosts/foto2.png" />
-            <JourneyPost
-              href="https://www.instagram.com/p/CXhDyYHAjrr/"
-              src="./src/img/posts/photo_2023-02-07_17-48-31.jpg"
-            />
-            <JourneyPost
-              href="https://www.instagram.com/p/CW_Sr7PAojC/"
-              src="./src/img/posts/photo_2023-02-07_17-48-29.jpg"
-            />
-            <JourneyPost
-              href="https://www.instagram.com/p/CbdIVNOgJHL/"
-              src="./src/img/posts/277039956_2089736417899433_4421079092770534871_n.jpg"
-            />
-            <JourneyPost
-              href="https://www.instagram.com/p/CbHukknAePN/"
-              src="./src/img/posts/275742398_261021152896294_8475692913018961799_n.jpg"
-            />
+            <JourneyPost href="https://www.instagram.com/p/ClRZ-6XLXQE/" src="images/instagramPosts/ballenas.jpg" />
+            <JourneyPost href="https://www.instagram.com/p/Ckv9BhHjuUb/" src="images/instagramPosts/plastitar.jpg" />
+            <JourneyPost href="https://www.instagram.com/p/CXhDyYHAjrr/" src="images/instagramPosts/blau_02.jpg" />
+            <JourneyPost href="https://www.instagram.com/p/CW_Sr7PAojC/" src="images/instagramPosts/70.jpg" />
+            <JourneyPost href="https://www.instagram.com/p/CbdIVNOgJHL/" src="images/instagramPosts/agua.jpg" />
+            <JourneyPost href="https://www.instagram.com/p/CbHukknAePN/" src="images/instagramPosts/tortuga.jpg" />
           </div>
         </div>
       </div>
