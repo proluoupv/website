@@ -5,7 +5,7 @@ export class SponsorSection extends Component {
   render() {
     return (
       <div className="flex h-screen w-screen items-center justify-center">
-        <div id="sponsors" className="flex w-full flex-col items-center pb-16 lg:pb-24">
+        <div id="sponsors" className="flex w-full flex-col items-center pb-16 pt-10 lg:pb-24">
           <div className="flex max-w-3xl flex-col">
             <div className="text-dark mb-8 flex flex-col px-10 lg:mb-16">
               <h3 className="font--title mb-4 text-center text-3xl font-medium lg:mb-4 lg:text-4xl">
